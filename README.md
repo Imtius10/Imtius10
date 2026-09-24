@@ -1,98 +1,46 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=220&section=header&text=Imtius%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
+# Imtius Ahmad
 
-<!-- ===================== NAME & DESIGNATION ===================== -->
-<h2 align="center">
-  👋 Hi, I'm <span style="color:#6366F1;">Imtius Ahmad</span>
-</h2>
-
-<h3 align="center">
-  Full Stack Web Developer
-</h3>
-
-<p align="center">
-  Passionate about building scalable web applications and solving real-world problems through technology.
-</p>
+**Full Stack Web Developer**
+Bangladesh
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-I am a **Full Stack Web Developer from Bangladesh 🇧🇩** with a strong foundation in modern web technologies.  
-I enjoy building clean, user-focused applications and continuously improving my problem-solving skills.  
-I’m highly adaptable, a quick learner, and passionate about writing maintainable, efficient code.
-
----
-
-## 🚀 Current Activities
-
-- 🔍 Exploring **Next.js** for scalable and high-performance web applications  
-- 🩸 Working on a **Blood Donation Platform (Blood Care)**  
-- 🧠 Learning **PyTorch** for AI & machine learning projects  
-- 📈 Improving problem-solving skills through competitive programming  
+Full Stack Web Developer from Bangladesh with a strong foundation in modern
+web technologies. Experienced in building clean, user-focused applications
+and writing scalable, maintainable, efficient code. Highly adaptable and a
+quick learner with a passion for solving real-world problems through
+technology. Skilled across the full stack: JavaScript/TypeScript, Next.js,
+React, Node.js, Express, SQL and NoSQL databases, with growing experience in
+AI and machine learning.
 
 ---
 
-## 🛠️ Skills
+## Contact
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,firebase" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mariadb" />
-</p>
-
-### 🤖 AI / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,matlab" />
-</p>
-
-### 🧰 Tools & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,arduino" />
-</p>
+- Email: h.imtius10@gmail.com
+- GitHub: https://github.com/imtius10
+- LinkedIn: https://www.linkedin.com/in/imtius-ahmad
 
 ---
 
-## 🌐 Social & Professional Links
+## Skills
 
-<p align="left">
-  <a href="https://github.com/imtius10">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:h.imtius10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, Spring (Java), Firebase
+- **Databases:** MongoDB, MySQL, PostgreSQL, MariaDB
+- **AI and Data:** Python, PyTorch, OpenCV, MATLAB
+- **Tools and Systems:** Git, GitHub, Linux, Arduino
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtius10&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtius10&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtius10&theme=tokyonight&hide_border=true"/>
-</p>
+- **RentNest** — Full-stack rental property marketplace for Bangladesh.
+  Next.js 15, React 19, TypeScript, Tailwind CSS, shadcn/ui, Express 5,
+  Prisma 7, PostgreSQL, Stripe payments. Deployed on Vercel.
+  Live: https://rentora-ecru.vercel.app
+- **Blood Care** — Blood donation platform (in development).
 
 ---
-
-<p align="center">
-  💡 <i>"Build with passion. Learn continuously. Grow consistently."</i>
-</p>
