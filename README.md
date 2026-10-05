@@ -1,81 +1,93 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                         IMTIUS.DEV                                ║
-║                  Advanced GitHub Profile                           ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                       HERO SECTION                         -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:111827,50:312E81,75:4F46E5,100:06B6D4&height=300&section=header&text=IMTIUS%20AHMAD&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:4F46E5,100:06B6D4&height=260&section=header&text=IMTIUS%20AHMAD&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=80&lines=FULL+STACK+WEB+DEVELOPER;NEXT.JS+%7C+TYPESCRIPT+%7C+NODE.JS;BACKEND-FOCUSED+FULL+STACK+ENGINEER;BUILDING+SCALABLE+WEB+APPLICATIONS;SOLVING+PROBLEMS+ONE+COMMIT+AT+A+TIME."
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Backend-Focused+Full+Stack+Engineer;Building+Scalable+Web+Applications;Always+Learning.+Always+Building."
+    alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/imtius10">
-    <img src="https://img.shields.io/badge/GitHub-imtius10-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/github/followers/imtius10?label=Followers&style=for-the-badge&logo=github&color=6366F1"/>
   </a>
-  <a href="https://www.linkedin.com/in/imtius10/">
-    <img src="https://img.shields.io/badge/LinkedIn-Imtius%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/imtius10">
+    <img src="https://komarev.com/ghpvc/?username=imtius10&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
   </a>
-  <a href="mailto:h.imtius10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imtius10&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    DEVELOPER TERMINAL                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                     INTRODUCTION                           -->
+<!-- ========================================================= -->
 
-<h2 align="center">⌁ IMTIUS.DEV // SYSTEM</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hey, I'm Imtius
+</h2>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=94A3B8&center=true&vCenter=true&width=700&height=45&lines=%3E+initializing+developer.profile;%3E+loading+technology.stack;%3E+loading+problem.solving.engine;%3E+system+ready."
-  />
+  <b>Full Stack Web Developer</b> from <b>Bangladesh 🇧🇩</b>
 </p>
+
+<p align="center">
+  I design and build modern web applications with a strong focus on
+  <br/>
+  <b>performance</b> • <b>scalability</b> • <b>clean architecture</b> • <b>developer experience</b>
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  DEVELOPER PROFILE                         -->
+<!-- ========================================================= -->
 
 <table align="center">
 <tr>
-<td>
+<td width="50%" valign="top">
+
+### ⚡ What I Do
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   imtius@dev                                             │
-│   ─────────────────────────────────────────────────────   │
-│                                                          │
-│   ROLE        Full Stack Web Developer                   │
-│   LOCATION    Bangladesh 🇧🇩                              │
-│   FOCUS       Web Engineering + Backend                 │
-│   STATUS      ● ONLINE                                   │
-│                                                          │
-│   FRONTEND    React / Next.js / TypeScript               │
-│   BACKEND     Node.js / Express / Spring Boot            │
-│   DATABASE    PostgreSQL / MongoDB / MySQL               │
-│   AI          Python / PyTorch / OpenCV                  │
-│                                                          │
-│   CURRENTLY   Building • Learning • Experimenting        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌─────────────────────────────────┐
+│        FULL STACK ENGINEER      │
+├─────────────────────────────────┤
+│                                 │
+│  ▸ Modern Frontend              │
+│  ▸ Scalable Backend             │
+│  ▸ REST API Architecture        │
+│  ▸ Database Design              │
+│  ▸ Authentication & RBAC        │
+│  ▸ Performance Optimization     │
+│  ▸ Clean & Maintainable Code    │
+│                                 │
+└─────────────────────────────────┘
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Current Focus
+
+```text
+Next.js       ██████████████████░░ 90%
+TypeScript    █████████████████░░░ 85%
+React         █████████████████░░░ 85%
+Node.js       ████████████████░░░░ 80%
+PostgreSQL    ███████████████░░░░░ 75%
+Prisma        ██████████████░░░░░░ 70%
+Python / AI   ███████████░░░░░░░░░ 60%
 ```
 
 </td>
@@ -84,242 +96,67 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    WHO AM I                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                  TECHNOLOGY STACK                          -->
+<!-- ========================================================= -->
 
-<h2 align="center">🧬 Developer DNA</h2>
+<h2 align="center">⚙️ Technology Stack</h2>
 
 <p align="center">
-  I build modern software with a focus on
-  <b>performance</b>, <b>scalability</b>, <b>clean architecture</b>
-  and <b>real-world problem solving</b>.
+  <i>Tools I use to turn ideas into production-ready software.</i>
 </p>
 
 <br/>
 
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### ⚡ BUILD
-
-Modern  
-Web Apps
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠 SOLVE
-
-Algorithms  
-& DSA
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏗️ DESIGN
-
-Scalable  
-Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔬 EXPLORE
-
-AI / ML  
-Experiments
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TECH ORBIT                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🌐 Technology Orbit</h2>
-
-<p align="center">
-  <i>The technologies currently orbiting my workflow.</i>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,prisma,postgres,mongodb,python,pytorch,git,linux&perline=7"/>
-</p>
-
-<br/>
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-**FRONTEND**
-
-`React`  
-`Next.js`  
-`TypeScript`  
-`Tailwind`  
-`Redux`
-
-</td>
-
-<td align="center">
-
-**BACKEND**
-
-`Node.js`  
-`Express`  
-`REST APIs`  
-`JWT`  
-`RBAC`
-
-</td>
-
-<td align="center">
-
-**DATA**
-
-`PostgreSQL`  
-`MongoDB`  
-`MySQL`  
-`Prisma`
-
-</td>
-
-<td align="center">
-
-**AI / DATA**
-
-`Python`  
-`PyTorch`  
-`OpenCV`  
-`MATLAB`
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ARCHITECTURE DNA                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏗️ How I Build</h2>
-
-<p align="center">
-  <i>From interface → API → business logic → data.</i>
-</p>
-
-<br/>
-
-```text
-                         ┌─────────────────────┐
-                         │       USER          │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      Next.js        │
-                         │   React + TypeScript │
-                         └──────────┬──────────┘
-                                    │
-                             HTTP / REST API
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │   Node / Express    │
-                         │                     │
-                         │ Auth • RBAC • Logic │
-                         └──────────┬──────────┘
-                                    │
-                    ┌───────────────┼───────────────┐
-                    │               │               │
-                    ▼               ▼               ▼
-             ┌────────────┐ ┌────────────┐ ┌────────────┐
-             │ PostgreSQL │ │  MongoDB   │ │   Redis    │
-             │            │ │            │ │  / Cache   │
-             └────────────┘ └────────────┘ └────────────┘
-                    │
-                    ▼
-             ┌────────────┐
-             │   Prisma   │
-             │    ORM     │
-             └────────────┘
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SKILLS                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⚙️ Engineering Stack</h2>
-
-<br/>
-
-<h3 align="center">🎨 Frontend Engineering</h3>
+<h3 align="center">🎨 Frontend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8"/>
 </p>
 
 <p align="center">
-  HTML5 • CSS3 • JavaScript ES6+ • TypeScript • React • Next.js • Tailwind CSS • Redux
+  HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Redux
 </p>
 
 <br/>
 
-<h3 align="center">⚙️ Backend Engineering</h3>
+<h3 align="center">⚙️ Backend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,firebase&perline=8"/>
 </p>
 
 <p align="center">
-  Node.js • Express.js • Spring Boot • REST APIs • JWT Authentication • RBAC • Firebase
+  Node.js • Express.js • Spring Boot • Firebase • REST APIs • JWT • RBAC
 </p>
 
 <br/>
 
-<h3 align="center">🗄️ Data Engineering</h3>
+<h3 align="center">🗄️ Database & ORM</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,mariadb,prisma&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mariadb,prisma&perline=8"/>
 </p>
 
 <p align="center">
-  PostgreSQL • MongoDB • MySQL • MariaDB • Prisma ORM • Database Design
+  MongoDB • MySQL • PostgreSQL • MariaDB • Prisma • Database Design
 </p>
 
 <br/>
 
-<h3 align="center">🤖 AI / Computer Vision</h3>
+<h3 align="center">🤖 AI / Data</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,matlab&perline=8"/>
 </p>
 
 <p align="center">
-  Python • PyTorch • OpenCV • MATLAB • Machine Learning • Computer Vision
+  Python • PyTorch • OpenCV • MATLAB • Machine Learning • Data Analysis
 </p>
 
 <br/>
 
-<h3 align="center">🧰 Infrastructure / Tools</h3>
+<h3 align="center">🧰 Tools & Environment</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode,arduino&perline=8"/>
@@ -327,16 +164,15 @@ Experiments
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     PROJECTS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                     FEATURED PROJECTS                      -->
+<!-- ========================================================= -->
 
-<h2 align="center">🚀 Selected Builds</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <br/>
 
 <table align="center">
-
 <tr>
 
 <td width="50%" valign="top">
@@ -345,22 +181,23 @@ Experiments
 
 <p align="center">
   <a href="https://rentora-ecru.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-4F46E5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
-  Rental marketplace for Bangladesh with property discovery,
-  advanced filtering, role-based dashboards and payments.
+A modern rental marketplace built for Bangladesh with property discovery, role-based dashboards and online payments.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+
 </p>
 
 </td>
@@ -370,146 +207,20 @@ Experiments
 <h3 align="center">🩸 Blood Care</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚧_IN_DEVELOPMENT-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚧_In_Development-F59E0B?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  A blood donation platform designed to connect donors
-  with people searching for blood during emergencies.
+A platform designed to connect blood donors with people searching for blood, making emergency coordination easier.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
 
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     PROJECT PIPELINE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🛰️ Build Pipeline</h2>
-
-<p align="center">
-
-`IDEA`
-
-&nbsp;→&nbsp;
-
-`DESIGN`
-
-&nbsp;→&nbsp;
-
-`CODE`
-
-&nbsp;→&nbsp;
-
-`TEST`
-
-&nbsp;→&nbsp;
-
-`DEPLOY`
-
-&nbsp;→&nbsp;
-
-`ITERATE`
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </p>
-
-<br/>
-
-```text
-┌──────────────┐
-│     IDEA     │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   ARCHITECT  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│     CODE     │─────── TypeScript / React / Node
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│     TEST     │─────── API / Logic / Edge Cases
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│    DEPLOY    │─────── Vercel / Cloud
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   IMPROVE    │─────── Measure → Refactor → Repeat
-└──────────────┘
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       DSA ENGINE                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧠 DSA // PROBLEM SOLVING ENGINE</h2>
-
-<p align="center">
-  <i>Training the algorithmic side of the developer brain.</i>
-</p>
-
-<br/>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### 🧩 PATTERNS
-
-Arrays  
-Hashing  
-Two Pointers  
-Sliding Window  
-Stack  
-Binary Search
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌳 STRUCTURES
-
-Linked Lists  
-Trees  
-Graphs  
-Heaps  
-Tries  
-Intervals
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ ALGORITHMS
-
-DFS / BFS  
-Dynamic Programming  
-Greedy  
-Backtracking  
-Sorting  
-Graph Algorithms
 
 </td>
 
@@ -518,78 +229,43 @@ Graph Algorithms
 
 <br/>
 
+<!-- ========================================================= -->
+<!--                       CURRENTLY                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">🧭 Currently Building & Learning</h2>
+
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/DSA-Continuous_Learning-6366F1?style=for-the-badge"
-  />
-  <img
-    src="https://img.shields.io/badge/NeetCode-Roadmap-06B6D4?style=for-the-badge"
-  />
+
+🔭 Building <b>Blood Care</b><br/>
+<br/>
+⚡ Exploring <b>Next.js & scalable backend architecture</b><br/>
+<br/>
+🧠 Learning <b>PyTorch & Machine Learning</b><br/>
+<br/>
+📚 Improving <b>Data Structures & Algorithms</b><br/>
+<br/>
+💻 Practicing <b>Competitive Programming</b>
+
 </p>
 
-> **Note:** NeetCode does not expose a universally documented public stats API suitable for directly embedding live private/account statistics. When a reliable endpoint is available, this section can be replaced with live progress data rather than static numbers.
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENT EXPERIMENTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                       GITHUB STATS                        -->
+<!-- ========================================================= -->
 
-<h2 align="center">🔬 Current Experiments</h2>
-
-<br/>
-
-<table align="center">
-
-<tr>
-<td>
-
-```text
-╭──────────────────────────────────────────────────────────╮
-│                  EXPERIMENT LAB                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [01] NEXT.JS                                            │
-│       └─ Scalable application architecture               │
-│                                                          │
-│  [02] BACKEND                                            │
-│       └─ Express + Prisma + PostgreSQL                   │
-│                                                          │
-│  [03] PYTORCH                                            │
-│       └─ Computer vision / AI experiments                │
-│                                                          │
-│  [04] DSA                                                │
-│       └─ Algorithmic problem solving                     │
-│                                                          │
-│  [05] SYSTEM DESIGN                                      │
-│       └─ Learning how large systems scale                │
-│                                                          │
-│              STATUS: ● EXPERIMENTING                    │
-╰──────────────────────────────────────────────────────────╯
-```
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB TELEMETRY                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📡 GitHub Telemetry</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=imtius10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=imtius10&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtius10&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtius10&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
     height="180"
   />
 </p>
@@ -605,199 +281,55 @@ Graph Algorithms
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION MATRIX                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION GRAPH                       -->
+<!-- ========================================================= -->
 
-<h2 align="center">🟩 Contribution Matrix</h2>
+<h2 align="center">🐍 Contribution Journey</h2>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="95%"
-    alt="GitHub contribution snake"
-  />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB TROPHIES                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 Achievement Layer</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=imtius10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Contribution Snake"
     width="90%"
   />
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ACTIVITY GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    CONNECT WITH ME                         -->
+<!-- ========================================================= -->
 
-<h2 align="center">📈 Development Activity</h2>
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/imtius10">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/imtius10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:h.imtius10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                         FOOTER                             -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=imtius10&bg_color=0f172a&color=38bdf8&line=6366f1&point=ffffff&area=true&hide_border=true"
-    width="95%"
-  />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CURRENT STATUS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎯 Current Status</h2>
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-### 🔭 BUILDING
-
-**Blood Care**
-
-Blood donation  
-platform
-
-</td>
-
-<td align="center">
-
-### 📚 LEARNING
-
-**Next.js + Backend**
-
-Architecture  
-& scalability
-
-</td>
-
-<td align="center">
-
-### 🧠 TRAINING
-
-**DSA**
-
-NeetCode  
-problem solving
-
-</td>
-
-<td align="center">
-
-### 🤖 EXPLORING
-
-**AI / ML**
-
-PyTorch  
-Computer Vision
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     OPEN SOURCE / PHILOSOPHY                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">💭 Engineering Philosophy</h2>
-
-<p align="center">
-  <i>
-    "Don't just write code. Understand the system behind it."
-  </i>
-</p>
-
-<br/>
-
-<p align="center">
-
-`LEARN` &nbsp;→&nbsp;
-`BUILD` &nbsp;→&nbsp;
-`BREAK` &nbsp;→&nbsp;
-`DEBUG` &nbsp;→&nbsp;
-`IMPROVE` &nbsp;→&nbsp;
-`REPEAT`
-
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TERMINAL                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⌨️ Terminal</h2>
-
-<table align="center">
-<tr>
-<td>
-
-```bash
-┌──(imtius㉿github)-[~/profile]
-└─$ whoami
-
-imtius
-Full Stack Web Developer
-Bangladesh 🇧🇩
-
-┌──(imtius㉿github)-[~/profile]
-└─$ cat interests.txt
-
-> Web Engineering
-> Backend Architecture
-> Distributed Systems
-> Data Structures & Algorithms
-> Machine Learning
-> Computer Vision
-
-┌──(imtius㉿github)-[~/profile]
-└─$ ./contact.sh
-
-[+] GitHub   → https://github.com/imtius10
-[+] LinkedIn → https://www.linkedin.com/in/imtius10/
-[+] Email    → h.imtius10@gmail.com
-
-┌──(imtius㉿github)-[~/profile]
-└─$ echo "Let's build something."
-
-Let's build something. 🚀
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:312E81,100:020617&height=170&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:312E81&height=130&section=footer&animation=twinkling"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <b>IMTIUS.DEV</b>
-  <br/>
-  <sub>Build with passion • Learn continuously • Grow consistently</sub>
+  <b>💡 Build with passion • Learn continuously • Grow consistently</b>
 </p>
 
 <p align="center">
