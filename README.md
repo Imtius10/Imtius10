@@ -1,20 +1,15 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:8B5CF6,100:0EA5E9&height=240&section=header&text=Imtius%20Ahmad&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=60&descColor=E0E7FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=220&section=header&text=Imtius%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<!-- ===================== INTRO ===================== -->
+<!-- ===================== NAME & DESIGNATION ===================== -->
 <h1 align="center">👋 Hi, I'm Imtius Ahmad</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+scalable+web+applications;Solving+real-world+problems+with+technology" />
-</p>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
   Passionate about building scalable web applications and solving real-world problems through technology.
 </p>
-
-<br/>
 
 <!-- ===================== PROFESSIONAL SUMMARY ===================== -->
 <h2 align="center">📌 Professional Summary</h2>
