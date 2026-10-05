@@ -1,14 +1,41 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=220&section=header&text=Imtius%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:8B5CF6,100:0EA5E9&height=240&section=header&text=Imtius%20Ahmad&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=60&descColor=E0E7FF" />
 </p>
 
-<!-- ===================== NAME & DESIGNATION ===================== -->
+<!-- ===================== INTRO ===================== -->
 <h1 align="center">👋 Hi, I'm Imtius Ahmad</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+scalable+web+applications;Solving+real-world+problems+with+technology" />
+</p>
 
 <p align="center">
   Passionate about building scalable web applications and solving real-world problems through technology.
+</p>
+
+<br/>
+
+<!-- ===================== PROFESSIONAL SUMMARY ===================== -->
+<h2 align="center">📌 Professional Summary</h2>
+
+<p align="center">
+  Full Stack Web Developer from <b>Bangladesh 🇧🇩</b> with a strong foundation in<br/>
+  <b>JavaScript</b> • <b>TypeScript</b> • <b>React</b> • <b>Next.js</b> • <b>Node.js</b> • <b>Express</b> and modern databases.
+</p>
+
+<p align="center">
+  I build clean, user-focused applications and write scalable, maintainable, efficient code.<br/>
+  Highly adaptable, a quick learner, and passionate about solving real-world problems with technology.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-6366F1?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-7C6CF5?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-4F8DE8?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0EA5E9?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-0B8FC7?style=flat-square&logo=express&logoColor=white" />
 </p>
 
 ---
